@@ -11,7 +11,7 @@
 	</header>
 	<section class="login">
 		<section class="login__container">
-			<h2>Inicia Sesion</h2>
+			<h2>Inicia Sesion 2.0</h2>
 			<?php 
 				session_start();
 		        require_once 'login.php';
