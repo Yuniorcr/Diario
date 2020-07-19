@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-h-p2016a-m-2000x1374.png);
+}
+
+.header {
+  font-family: "Muli", sans-serif;
+}
+
+.header__img {
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+  align-items: flex-end;
+  padding-bottom: 10px;
+}
+
+.footer a {
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  padding-left: 30px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.error {
+  position: relative;
+  text-align: center;
+  color: white;
+  min-height: 500px;
+}
+
+.error__message-n {
+  margin: 20px;
+  font-size: 80px;
+}
+
+.error__message {
+  margin: 20px;
+  font-size: 80px;
+}
+
+/*# sourceMappingURL=stule-error.css.map */
