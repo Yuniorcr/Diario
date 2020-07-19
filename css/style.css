@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: "Muli", sans-serif;
+  font-family: "Muli", Arial;
 }
 
 .header__img {
